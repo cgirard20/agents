@@ -77,7 +77,7 @@ class Me:
 
     def __init__(self):
         self.openai = OpenAI()
-        self.name = "Ed Donner"
+        self.name = "Camille Girard"
         reader = PdfReader("me/linkedin.pdf")
         self.linkedin = ""
         for page in reader.pages:
@@ -86,6 +86,12 @@ class Me:
                 self.linkedin += text
         with open("me/summary.txt", "r", encoding="utf-8") as f:
             self.summary = f.read()
+        reader = PdfReader("me/resume.pdf")
+        self.resume = ""
+        for page in reader.pages:
+            text = page.extract_text()
+            if text:
+                self.resume += text
 
 
     def handle_tool_call(self, tool_calls):
