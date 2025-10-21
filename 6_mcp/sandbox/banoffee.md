@@ -3,34 +3,40 @@
 ## Ingredients
 - **For the Base:**  
   - 200g digestive biscuits  
-  - 100g unsalted butter, melted  
+  - 100g butter (melted)  
 
 - **For the Filling:**  
   - 397g can of sweetened condensed milk  
-  - 3 large ripe bananas  
+  - 2 ripe bananas  
   - 300ml double cream  
-  - 2 tbsp icing sugar  
-  - Grated chocolate (for topping)  
+  - 2 tablespoons of sugar (to taste)  
+  - Grated chocolate and/or cocoa powder (for garnish)  
 
 ## Instructions
+1. **Prepare the Base:**  
+   - Preheat your oven to 180°C (350°F).  
+   - Crush the digestive biscuits in a food processor until fine.  
+   - Mix the crushed biscuits with melted butter until combined.  
+   - Press the mixture into the base of a 20cm (8 inch) round pie dish.  
+   - Bake for 10 minutes and then let it cool.
 
-1. **Make the Base:**  
-   - Blitz the digestive biscuits in a food processor until fine crumbs.  
-   - Combine with melted butter and mix well.  
-   - Press the mixture into the base and sides of a 9-inch pie dish.  
-   - Refrigerate for 30 minutes to set.
-
-2. **Prepare the Toffee:**  
-   - Boil the unopened can of condensed milk in a large pot of water for 2-3 hours (ensure it is covered in water).  
-   - Allow it to cool completely before opening.
+2. **Make the Toffee:**  
+   - Place the can of sweetened condensed milk in a saucepan filled with water.  
+   - Bring to the boil and simmer for 2 hours (ensure it is covered with water).  
+   - Allow to cool before opening the can.
 
 3. **Assemble the Pie:**  
-   - Spread the toffee over the biscuit base.  
-   - Slice bananas and place on top of the toffee.
-   
-   - Whip the double cream with icing sugar until soft peaks form, then spread over the bananas.
-   - Finish with grated chocolate on top.
+   - Once the toffee has cooled, spread it evenly over the biscuit base.  
+   - Slice the bananas and layer them on top of the toffee.
+   - Whip the double cream with sugar until it holds its shape and spread over the bananas.
 
-4. **Chill and Serve:**  
-   - Refrigerate for at least an hour before serving.  
-   - Slice and enjoy!
+4. **Garnish:**  
+   - Sprinkle with grated chocolate or dust with cocoa powder.
+
+5. **Chill and Serve:**  
+   - Chill in the fridge for at least 1 hour before serving.  
+   - Slice and enjoy!  
+
+## Tips
+- You can make the pie a day in advance for the flavors to meld.
+- For a twist, add a layer of nut butter with the bananas.
